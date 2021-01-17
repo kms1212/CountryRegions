@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CountryRegions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CountryRegions_jar</output-path>
+    <root id="archive" name="CountryRegions.jar">
+      <element id="module-output" name="CountryRegions" />
+    </root>
+  </artifact>
+</component>

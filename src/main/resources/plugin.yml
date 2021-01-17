@@ -1,0 +1,14 @@
+name: CountryRegions
+version: ${project.version}
+main: com.kms1212.mcplugin.countryregions.CountryRegions
+api-version: 1.16
+prefix: CountryRegions
+load: STARTUP
+authors: [kms1212]
+description: Papermc plugin
+commands:
+  cr:
+    description: CountryRegions command.
+    usage: "Commands : /<command> help"
+    permission: <plugin name>.configure
+    permission-message: "You don't have permission to perform this command."
